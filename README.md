@@ -20,7 +20,7 @@ There are some settings available by the GUI.
 Additional Information
 ----------------------
 
-The programming language is C++.
+The programming language is C#.
 
 This is a Visual Studio 2010 solution.
 
